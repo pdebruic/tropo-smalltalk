@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Kom",
+	"classinstvars" : [
+		"httpService" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TPKomWaitForSms",
+	"pools" : [
+		 ],
+	"super" : "TPSmsService",
+	"type" : "normal" }

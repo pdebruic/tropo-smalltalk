@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"headers" ],
+	"name" : "TPHangup",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

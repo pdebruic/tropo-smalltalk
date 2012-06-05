@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		"OutgoingMessageQueue" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TPSmsService",
+	"pools" : [
+		 ],
+	"super" : "TPService",
+	"type" : "normal" }

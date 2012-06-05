@@ -1,0 +1,15 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"message",
+		"token" ],
+	"name" : "TPSmsSimpleClient",
+	"pools" : [
+		 ],
+	"super" : "TPSmsService",
+	"type" : "normal" }

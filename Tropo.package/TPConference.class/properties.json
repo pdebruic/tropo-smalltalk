@@ -1,0 +1,19 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"id",
+		"mute",
+		"name",
+		"playTones",
+		"required",
+		"terminator" ],
+	"name" : "TPConference",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

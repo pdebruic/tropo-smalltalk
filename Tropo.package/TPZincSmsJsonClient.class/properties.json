@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 4/11/2011 11:12",
+	"instvars" : [
+		 ],
+	"name" : "TPZincSmsJsonClient",
+	"pools" : [
+		 ],
+	"super" : "TPSmsService",
+	"type" : "normal" }

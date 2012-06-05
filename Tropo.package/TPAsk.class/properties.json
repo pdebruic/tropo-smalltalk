@@ -1,0 +1,23 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"choices",
+		"attempts",
+		"bargein",
+		"minConfidence",
+		"name",
+		"recognizer",
+		"required",
+		"say",
+		"timeout",
+		"voice" ],
+	"name" : "TPAsk",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"to",
+		"name",
+		"required" ],
+	"name" : "TPRedirect",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

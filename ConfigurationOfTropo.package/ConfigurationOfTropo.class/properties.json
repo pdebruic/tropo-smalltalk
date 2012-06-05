@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfTropo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfTropo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

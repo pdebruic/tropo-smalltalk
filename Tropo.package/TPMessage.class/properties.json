@@ -1,0 +1,23 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"say",
+		"to",
+		"answerOnMedia",
+		"channel",
+		"from",
+		"name",
+		"network",
+		"required",
+		"timeout",
+		"voice" ],
+	"name" : "TPMessage",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

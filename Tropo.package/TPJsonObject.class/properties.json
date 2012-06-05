@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TPJsonObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

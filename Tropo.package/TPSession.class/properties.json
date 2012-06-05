@@ -1,0 +1,24 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"accountId",
+		"callId",
+		"form",
+		"headers",
+		"id",
+		"initialText",
+		"parameters",
+		"timestamp",
+		"to",
+		"userType",
+		"token" ],
+	"name" : "TPSession",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

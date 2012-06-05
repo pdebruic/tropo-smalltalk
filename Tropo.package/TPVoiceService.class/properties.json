@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		"OutgoingCallQueue" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TPVoiceService",
+	"pools" : [
+		 ],
+	"super" : "TPService",
+	"type" : "normal" }

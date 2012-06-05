@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Kom",
+	"classinstvars" : [
+		"httpService" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TPKomWaitForCall",
+	"pools" : [
+		 ],
+	"super" : "TPVoiceService",
+	"type" : "normal" }

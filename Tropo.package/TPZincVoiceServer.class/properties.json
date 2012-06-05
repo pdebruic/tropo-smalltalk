@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		"httpService" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TPZincVoiceServer",
+	"pools" : [
+		 ],
+	"super" : "TPVoiceService",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Tropo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"actions",
+		"complete",
+		"error",
+		"sequence",
+		"sessionDuration",
+		"sessionId",
+		"state" ],
+	"name" : "TPResult",
+	"pools" : [
+		 ],
+	"super" : "TPJsonObject",
+	"type" : "normal" }

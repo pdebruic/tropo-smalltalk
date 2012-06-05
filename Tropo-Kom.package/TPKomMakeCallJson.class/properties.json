@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Kom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 4/11/2011 11:15",
+	"instvars" : [
+		 ],
+	"name" : "TPKomMakeCallJson",
+	"pools" : [
+		 ],
+	"super" : "TPVoiceService",
+	"type" : "normal" }

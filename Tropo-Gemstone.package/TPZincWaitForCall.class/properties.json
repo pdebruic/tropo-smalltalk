@@ -1,0 +1,14 @@
+{
+	"category" : "Tropo-Gemstone",
+	"classinstvars" : [
+		"httpService" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 04/15/2011 16:38",
+	"instvars" : [
+		"server" ],
+	"name" : "TPZincWaitForCall",
+	"pools" : [
+		 ],
+	"super" : "TPVoiceService",
+	"type" : "normal" }

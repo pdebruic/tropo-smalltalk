@@ -1,0 +1,3 @@
+accessing
+as
+	^ as
