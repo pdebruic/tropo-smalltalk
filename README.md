@@ -3,7 +3,7 @@ tropo-smalltalk
 
 Smalltalk implementation of the [Tropo](http://www.tropo.com) API.
 
-**This code is in now way endorsed, supported, or verified by Tropo. I think they're ok with it and they know about it but its definitely unofficial.**
+**This code is in no way endorsed, supported, or verified by Tropo. I think they're ok with it and they know about it but its definitely unofficial.**
 
 To use it you need to sign up at [Tropo](http://www.tropo.com) to get API keys which you then put into the class side #tropoToken methods in TPSmsService and/or TPVoiceService
 
